@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import tkinter as tk
 
+# Functie principala
 def Filtru_trece_jos():
     print('Proiectare filtru trece-jos k constant de tip T (o singura sectiune)')
 
